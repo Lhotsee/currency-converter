@@ -6,6 +6,7 @@
 
 .form__legend {
     padding: 10px;
+    font-size: large;
 }
 
 .form__field {
@@ -21,6 +22,7 @@
     display: inline-block;
     max-width: 200px;
     width: 100%;
+    font-size: large;
 }
 
 .form__button {
@@ -30,6 +32,7 @@
     width: 100%;
     border-radius: 20px;
     font-family: "Lato", sans-serif;
+    font-size: large;
 
 }
 
