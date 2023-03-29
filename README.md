@@ -2,6 +2,6 @@
 
 ## This is a currency converter. You can convert PLN to EUR, GBP or USD.
 
-![Animation](https://github.com/Lhotsee/currency-converter/blob/main/Animation1.gif?raw=true)
+![Animation](https://raw.githubusercontent.com/Lhotsee/currency-converter/main/Animation1.gif)
 
 https://lhotsee.github.io/currency-converter/
